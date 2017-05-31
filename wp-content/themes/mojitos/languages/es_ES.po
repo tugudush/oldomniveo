@@ -1,0 +1,1072 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mojitos\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-18 18:07+0100\n"
+"PO-Revision-Date: 2012-06-18 18:07+0100\n"
+"Last-Translator: info <info@omniveo.com>\n"
+"Language-Team:  <admin@omniveo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: D:\\Backup\\LonexBCK\\omniveo.com\\wp\\wp-content\\themes\\mojitos\n"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/404.php:11
+msgid "Page not found"
+msgstr "Página no encontrado"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/404.php:21
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Disculpa, lo que estás buscando no está aquí"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio.php:70
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio.php:99
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio3.php:70
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio3.php:99
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio4.php:70
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio4.php:99
+msgid "View"
+msgstr "Ver"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio.php:92
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio3.php:92
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio4.php:92
+msgid "Added on"
+msgstr "Añadido al"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio.php:96
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio3.php:96
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio4.php:96
+msgid "Client:"
+msgstr "Cliente:"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio.php:110
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio3.php:110
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive-portfolio4.php:110
+msgid "Sorry, no posts matched your criteria."
+msgstr "Disculpa, no hay entradas con lo que buscas."
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive.php:48
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archivos por Día: %s"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive.php:50
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archivos por Mes: %s"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive.php:52
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archivos por Año: %s"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/archive.php:54
+msgid "Blog Archives"
+msgstr "Archivo del Blog"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/category.php:54
+#, php-format
+msgid "Category: %s"
+msgstr "Categoría: %s"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/comments.php:17
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Esta entrada está protegida con contraseña. Introduce la contraseña para ver los comentarios. "
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/comments.php:39
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/comments.php:59
+msgid "Comment navigation"
+msgstr "Comentarios"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/comments.php:40
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/comments.php:60
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios Anteriores"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/comments.php:41
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios Posteriores &rarr;"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/comments.php:77
+msgid "Comments are closed."
+msgstr "Comentarios están cerrados"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-index.php:18
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-single.php:25
+msgid ", "
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-index.php:21
+#, php-format
+msgid "<span class=\"%1$s\">in</span> %2$s"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-index.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-index.php:36
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-single.php:53
+msgid "<span class=\"reply\">Reply</span>"
+msgstr "<span class=\"reply\">Responder</span>"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-index.php:36
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-single.php:53
+msgid "<span class=\"reply\">Replies:</span> 1"
+msgstr "<span class=\"reply\">Respuestas:</span> 1"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-index.php:36
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-single.php:53
+msgid "<span class=\"reply\">Replies:</span> %"
+msgstr "<span class=\"reply\">Respuestas:</span> %"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-single.php:20
+msgid "<span>Pages:</span>"
+msgstr "<span>Páginas:</span>"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-single.php:28
+msgid "Categorized:"
+msgstr "En la Categoría:"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-single.php:34
+msgid "Tagged:"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-single.php:39
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:342
+msgid "[Edit]"
+msgstr "[Editar]"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/content-single.php:56
+msgid "share"
+msgstr "compartir"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/footer.php:43
+msgid "&copy; 2012 | All rights reserved. | "
+msgstr "&copy; 2012 | Todos los derechos reservados. | "
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/footer.php:43
+msgid "http://www.omniveo.com"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/footer.php:43
+msgid "OmniVeo"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/footer.php:45
+msgid "Back to top"
+msgstr "Volver arriba"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:62
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:181
+msgid "Home page sidebar"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:183
+msgid "The right sidebar for home page."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:190
+msgid "Sidebar"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:192
+msgid "The right sidebar for posts and pages."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:199
+msgid "Contact page sidebar"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:201
+msgid "The right sidebar for contact page."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:208
+msgid "Page sidebar"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:210
+msgid "The right sidebar for page."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:217
+msgid "Footer 1"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:219
+msgid "The leftmost footer widget"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:225
+msgid "Footer 2"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:227
+msgid "The middle footer widget"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:233
+msgid "Footer 3"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:235
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:243
+msgid "The rightmost footer widget which is the widest"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:241
+msgid "Footer 4"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:260
+msgid "Post navigation"
+msgstr "Entradas"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:261
+msgid "Older posts"
+msgstr "Entradas anteriores"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:262
+msgid "Newer posts"
+msgstr "Entradas posteriores"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:318
+msgid "Pingback:"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:318
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:334
+#, php-format
+msgid "%1$s <span class=\"says\">said:</span>"
+msgstr "%1$s <span class=\"says\">ha dicho:</span>"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:346
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario está en espera de la moderación."
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/functions.php:576
+#, php-format
+msgid "<div class=\"post-date\"><span class=\"sep\">%1$s</span><time class=\"entry-date\" datetime=\"%2$s\" pubdate><span class=\"day\">%3$s</span><span class=\"month\">%4$s <span class=\"sep\">, </span></span><span class=\"year\">%5$s</span></time></div>"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/header.php:38
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/header.php:82
+msgid "Main menu"
+msgstr "Menú principal"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/header.php:84
+msgid "Skip to content"
+msgstr "Ir a contenido"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/index.php:31
+msgid "latest"
+msgstr "más reciente"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/portfolio-gallery.php:9
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/portfolio.php:9
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/sidebar.php:15
+msgid "back to main"
+msgstr "inicio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/portfolio-gallery.php:45
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/portfolio.php:45
+msgid "Year:"
+msgstr "Año:"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/portfolio-gallery.php:50
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/portfolio.php:50
+msgid "Tools:"
+msgstr "Herramientas:"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/portfolio-gallery.php:55
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/portfolio.php:55
+msgid "Role:"
+msgstr "Rol"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/portfolio-gallery.php:60
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/portfolio.php:60
+msgid "Link:"
+msgstr "Enlace:"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/portfolio-gallery.php:65
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/portfolio.php:65
+msgid "View project"
+msgstr "Ver proyecto"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/search.php:14
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/search.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/search.php:47
+msgid "Nothing Found"
+msgstr "Sin Resultados"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/search.php:51
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada corresponde a sus criterios de búsqueda. Por favor, inténtelo de nuevo con algunas palabras diferentes"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/sidebar.php:40
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-home-3-col.php:131
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-home-slider.php:146
+msgid "Archives"
+msgstr "Archivos"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/sidebar.php:47
+msgid "Meta"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/tag.php:34
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archivos Tag: %s"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-contact.php:23
+msgid "Your email has been sent! Thank you!"
+msgstr "Tu correo ha sido enviado! ¡Gracias!"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-contact.php:24
+msgid "Please enter your name, a message and a valid email address."
+msgstr "Por favor, introduzca su nombre, un mensaje y una dirección de correo electrónico válida."
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-contact.php:25
+msgid "Your email failed. Try again later."
+msgstr "Tu email ha fallado. Inténtelo más tarde."
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-contact.php:29
+msgid "Name"
+msgstr "Nombre"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-contact.php:32
+msgid "Email"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-contact.php:35
+msgid "Message"
+msgstr "Mensaje"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-contact.php:38
+msgid "Send"
+msgstr "Enviar"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-home-3-col.php:63
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-home-slider.php:65
+msgid "View all"
+msgstr "Ver todo"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-home-3-col.php:63
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-home-slider.php:65
+msgid "previous portfolio"
+msgstr "portfolio anterior"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-home-3-col.php:63
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-home-slider.php:65
+msgid "next portfolio"
+msgstr "siguiente portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-home-3-col.php:125
+msgid "View all articles"
+msgstr "Ver todo los artículos"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-home-slider.php:134
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-home-slider.php:140
+#, fuzzy
+msgid "Ver Portfolio"
+msgstr "Buscar en Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-home-slider.php:134
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/template-home-slider.php:140
+#, fuzzy
+msgid "View Portfolio"
+msgstr "Buscar en Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:112
+msgid "Import / Export"
+msgstr "Importar / Exportar"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:115
+msgid "Import Settings"
+msgstr "Ajustes de Importación"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:117
+msgid "If you have settings in a backup file on your computer, the Import / Export system can import those into this site. To get started, upload your backup file to import from below."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:122
+#, php-format
+msgid "Upload File: (Maximum Size: %s)"
+msgstr "Subir archivo: (Tamaño máximo: %s)"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:125
+msgid "Upload File and Import"
+msgstr "Subir archivo e importar"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:131
+msgid "Export Settings"
+msgstr "Ajustes de Exportación"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:133
+msgid "When you click the button below, the Import / Export system will create a text file for you to save to your computer."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:134
+#, php-format
+msgid "This text file can be used to restore your settings here on \"%s\", or to easily setup another website with the same settings\"."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:139
+msgid "Download Export File"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:163
+msgid "Welcome to the OptionsFramework Backup Manager."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:164
+msgid "Here are a few notes on using this screen."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:165
+msgid "The backup manager allows you to backup or restore your \"Theme Options\" and other settings to or from a text file."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:166
+msgid "To create a backup, simply select the setting type you'd like to backup (or \"All Settings\") and hit the \"Download Export File\" button."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:167
+msgid "To restore your settings from a backup, browse your computer for the file (under the \"Import Settings\" heading) and hit the \"Upload File and Import\" button. This will restore only the settings that have changed since the backup."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:169
+msgid "Please note that only valid backup files generated through the OptionsFramework Backup Manager should be imported."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:189
+#, php-format
+msgid "Please note that this backup manager backs up only your settings and not your content. To backup your content, please use the %sWordPress Export Tool%s."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:192
+msgid "There was a problem importing your settings. Please Try again."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:194
+msgid "There was a problem exporting your settings. Please Try again."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:196
+msgid "The import file you've provided is invalid. Please try again."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-backup.php:198
+#, php-format
+msgid "Settings successfully imported. | Return to %sTheme Options%s"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-framework.php:290
+msgid "Default options restored."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-framework.php:331
+msgid "Options saved."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr "Ver Archivo"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr "Galería"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:82
+msgid "General Settings"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:85
+msgid "Custom Logo"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:86
+msgid "Upload a logo for your site."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:90
+msgid "Custom Favicon"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:91
+msgid "Upload a 16px x 16px Png/Gif image to represent your site."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:96
+msgid "Display Site Tagline"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:97
+msgid "Display the site tagline under the site title."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:102
+msgid "Contact email"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:103
+msgid "Email Address for Contact Form"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:108
+msgid "Portfolio all portfolio text"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:114
+msgid "Portfolio columns"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:115
+msgid "Select number of column of portfolio"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:121
+msgid "Tracking Code"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:122
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:127
+msgid "Homepage Settings"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:130
+msgid "Site introduction Page"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:131
+msgid "Select the page to use as a site introduction page, This page will appear in the top of your homepage."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:137
+msgid "Portfolio Title"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:138
+msgid "Enter the title of the portfolio area."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:143
+msgid "Portfolio Page"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:144
+msgid "Select the page to use as a portfolio, this will be use for the portfolio link."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:150
+msgid "Feature box Title"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:151
+msgid "Enter the title of the feature box on homepage."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:156
+msgid "Featured 1 Column"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:157
+msgid "Select the page to use as a first featured column"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:163
+msgid "Featured 2 Column"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:164
+msgid "Select the page to use as a second featured column."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:170
+msgid "Featured 3 Column"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:171
+msgid "Select the page to use as a third featured column."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:177
+msgid "Recent Post Title"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:178
+msgid "Enter the title of the latest posts area."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:183
+msgid "Blog Page"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:184
+msgid "Select the page to use as a blog, this will be used for the blog link."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:190
+msgid "Slideshow Settings"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:193
+msgid "Homepage type"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:194
+msgid "Select option according your homepage style (Carousel or Slideshow)."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:200
+msgid "Number of slide"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:201
+msgid "Number of slide to be display on slider."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:207
+msgid "Slider style"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:208
+msgid "Style of slider fade or slide."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:214
+msgid "Slide item style"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:215
+msgid "Enable to slide item as a group."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:220
+msgid "Select a Portfolio set"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:221
+msgid "Select which set of portfolio to be display, default is recently portfolio."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:226
+msgid "Style and Layout"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:229
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:230
+msgid "Theme switching. If you want to have another new theme style, you can create new css file in styles folder."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:236
+msgid "Layout"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:237
+msgid "Select a site layout: sidebar right, sidebar left, or no sidebar."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:246
+msgid "Custom CSS"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:247
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:258
+msgid "Body Background"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:259
+msgid "Change the whole page background style."
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:270
+msgid "Social Links"
+msgstr "Redes Sociales"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:273
+msgid "Facebook"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:274
+msgid "Username eg. addtwomore"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:279
+msgid "Twitter"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:280
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:286
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:292
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:298
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:304
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:310
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:316
+msgid "Username or ID eg. addtwomore"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:285
+msgid "Dribbble"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:291
+msgid "Forrst"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:297
+msgid "Flickr"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:303
+msgid "Googleplus"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:309
+msgid "Vimeo"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:315
+msgid "Youtube"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:321
+msgid "Linkedin"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:322
+msgid "Insery Linkedin public profile eg. http://www.linkedin.com/pub/addtwomore/1a/b0/28a"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:327
+msgid "Footer settings"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:330
+msgid "Footer text color"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:331
+msgid "Color of text in footer"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:336
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/meta-box.php:42
+msgid "Link"
+msgstr "Enlace"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:337
+msgid "Color of link in footer"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:342
+msgid "Link hover"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:343
+msgid "Color of link when hover"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:348
+msgid "Custom Footer Text"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/admin/options.php:349
+msgid "Custom HTML/Text that will appear in the footer of your theme. (Copyright &copy; addtwomore)"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/meta-box.php:8
+msgid "Portfolio Information"
+msgstr "Información Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/meta-box.php:14
+msgid "Client"
+msgstr "Cliente"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/meta-box.php:21
+msgid "Year"
+msgstr "Año"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/meta-box.php:28
+msgid "Tools"
+msgstr "Herramientas"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/meta-box.php:35
+msgid "Role"
+msgstr "Rol"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/meta-box.php:149
+msgid "Testimonial client company"
+msgstr "Testimonio Empresa cliente"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/meta-box.php:155
+msgid "Company"
+msgstr "Empresa"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:18
+msgid "Portfolios"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:19
+msgid "Portfolio Item"
+msgstr "Entrada Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:20
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:20
+msgid "Add New Item"
+msgstr "Agregar Nuevo Elemento"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:21
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:23
+msgid "Add New Portfolio Item"
+msgstr "Agregar Nuevo Elemento de Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:22
+msgid "Edit Portfolio Item"
+msgstr "Editar Elemento Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:24
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:24
+msgid "View Item"
+msgstr "Ver Artículo"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:25
+msgid "Search Portfolio"
+msgstr "Buscar en Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:26
+msgid "No portfolio items found"
+msgstr "No se ha encontrado elementos en el Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:27
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:28
+msgid "All Portfolios"
+msgstr "Todos los Portfolios"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:50
+msgid "Portfolio Tags"
+msgstr "Tags de Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:51
+msgid "Portfolio Tag"
+msgstr "Tag de Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:52
+msgid "Search Portfolio Tags"
+msgstr "Buscar Tags de Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:53
+msgid "Popular Portfolio Tags"
+msgstr "Etiquetas más populares del Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:54
+msgid "All Portfolio Tags"
+msgstr "Todos los Etiquetas del Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:55
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:56
+msgid "Parent Portfolio Tag:"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:57
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:58
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:59
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:60
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:61
+msgid "Separate portfolio tags with commas"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:62
+msgid "Add or remove portfolio tags"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:63
+msgid "Choose from the most used portfolio tags"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:64
+msgid "Portfolio Types"
+msgstr "Tipos del Portfolio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:93
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:93
+msgid "Thumbnail"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:94
+msgid "Tags"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:95
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:94
+msgid "Author"
+msgstr "Autor"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:96
+msgid "Comments"
+msgstr "Comentarios"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:97
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:95
+msgid "Date"
+msgstr "Fecha"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:124
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/portfolio-post-type.php:134
+msgid "None"
+msgstr "Ninguno"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:18
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:19
+msgid "Testimonial Item"
+msgstr "Artículo Testimonio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:21
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:23
+msgid "Add New Testimonial Item"
+msgstr "Añadir Nuevo Artículo Testimonio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:22
+msgid "Edit Testimonial Item"
+msgstr "Editar Artículo Testimonio"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:25
+msgid "Search Testimonial"
+msgstr "Buscar Testimonios"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:26
+msgid "No Testimonial items found"
+msgstr "No hay elementos testimoniales encontrados"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:27
+msgid "No Testimonial items found in trash"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:28
+msgid "All Testimonials"
+msgstr "Todos los Testimonios"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:50
+msgid "Testimonial Tags"
+msgstr "Etiquetas Testimonial"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:51
+msgid "Testimonial Tag"
+msgstr "Etiqueta Testimonial"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:52
+msgid "Search Testimonial Tags"
+msgstr "Buscar Etiquetas Testimonial"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:53
+msgid "Popular Testimonial Tags"
+msgstr "Etiquetas más populares Testimonial"
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:54
+msgid "All Testimonial Tags"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:55
+msgid "Parent Testimonial Tag"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:56
+msgid "Parent Testimonial Tag:"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:57
+msgid "Edit Testimonial Tag"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:58
+msgid "Update Testimonial Tag"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:59
+msgid "Add New Testimonial Tag"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:60
+msgid "New Testimonial Tag Name"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:61
+msgid "Separate testimonial tags with commas"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:62
+msgid "Add or remove testimonial tags"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:63
+msgid "Choose from the most used testimonial tags"
+msgstr ""
+
+#: D:\Backup\LonexBCK\omniveo.com\wp\wp-content\themes\mojitos/extensions/testimonial-post-type.php:64
+msgid "Testimonial Types"
+msgstr ""
+
+#~ msgid "contact from"
+#~ msgstr "contacto de"
+
+#~ msgid "Name:"
+#~ msgstr "Nombre:"

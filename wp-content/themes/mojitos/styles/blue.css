@@ -1,0 +1,77 @@
+#main-nav li a:hover, #main-nav li a:focus, #main-nav li ul li a:hover{
+	color: #28aed3;
+}
+#main-nav li a2{
+	color: #ccffff;
+}
+#main-nav li a2:hover, #main-nav li a2:focus, #main-nav li ul li a2:hover{
+	color: #28aed3;
+}
+#main-nav li ul {
+	background: #5ac8e5;
+}
+#main-nav li ul:before,
+#main-nav li ul:after {
+	border-bottom: 8px solid #5ac8e5;
+}
+#main-nav li ul li {
+	background: url(../images/blue/post-meta-seperator.png) top repeat-x;
+}
+blockquote, .widget_twitter .widget-title {
+	border-color:#5ac8e5;
+}
+.footer.entry-meta:before, footer.entry-meta:after {
+	border-left: 8px solid #5ac8e5;
+}
+.widget .box-link::after, .portfolio-meta .box-link::after {
+	border-top: 8px solid #5ac8e5;
+}
+a, #colophon a, #site-title a:hover, .entry-title a:hover, .widget a:hover, .widget_twitter .widget-title, .widget_twitter li a, .widget_list_portfolio a:hover, .portfolio-meta span {
+	color:#5ac8e5;
+}
+footer.entry-meta, .widget .box-link, #respond input#submit, #contact input#submit, .dropcap, a.button, #content nav a, .portfolio-meta .box-link {
+	background:#5ac8e5;
+}
+.widget_twitter ul#twitter_update_list li {
+	background:url(../images/blue/icon-twitter-bird.png) no-repeat left 12px;
+}
+ul.arrow-list li {
+	background:url(../images/blue/arrow-list.png) 0 10px no-repeat;
+}
+footer.entry-meta .leave-reply a, .share a {
+	background:url(../images/blue/post-meta-seperator.png) repeat-x;
+}
+.control-nav .previous, .flex-direction-nav li .prev, .control-nav .previous, .control-nav a[rel="prev"] {
+	background:url(../images/blue/control-nav.png) 0 -41px no-repeat;
+}
+.control-nav .previous-entry {
+	background:url(../images/blue/control-nav.png) 0 0 no-repeat;
+}
+.control-nav .next-entry {
+	background:url(../images/blue/control-nav.png) -50px 0 no-repeat;
+}
+.control-nav .next, .flex-direction-nav li .next, .control-nav .next, .control-nav a[rel="next"] {
+	background:url(../images/blue/control-nav.png) -50px -41px no-repeat;
+}
+.flex-control-nav li a {
+	background:url(../images/blue/slide-control-nav.png) no-repeat 0 0;
+}
+.portfolio-meta .categories span {
+	background:url(../images/blue/icon-folder.png) no-repeat bottom;
+}
+#content nav a:hover, .widget_twitter .box-link a:hover, .portfolio-meta .box-link a:hover, 
+#respond input#submit:active,
+#contact input#submit:active,
+#respond input#submit:hover,
+#contact input#submit:hover,
+.client-name,
+a.button:hover,
+#colophon a.button:hover {
+	color:#28aed3;
+}
+.portfolio-meta ul {
+	border-top:3px #5ac8e5 solid;
+}
+.portfolio-list-one .post-info a.view-project-1 {
+	background:url(../images/icon-magnify.png) #5ac8e5 20px 7px no-repeat	
+}

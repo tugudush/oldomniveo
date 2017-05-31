@@ -1,0 +1,1071 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mojitos\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-22 23:03+0700\n"
+"PO-Revision-Date: 2012-04-20 12:50+0100\n"
+"Last-Translator: addtwomore <support@addtwomore.com>\n"
+"Language-Team: Addtwomore <support@addtwomore.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:11
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:21
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: archive-portfolio.php:70
+#: archive-portfolio.php:99
+msgid "View"
+msgstr ""
+
+#: archive-portfolio.php:92
+msgid "Added on"
+msgstr ""
+
+#: archive-portfolio.php:96
+#: portfolio-gallery.php:41
+msgid "Client:"
+msgstr ""
+
+#: archive-portfolio.php:110
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: archive.php:48
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:50
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:52
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:54
+msgid "Blog Archives"
+msgstr ""
+
+#: category.php:54
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: comments.php:17
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:39
+#: comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:40
+#: comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:41
+#: comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: content-index.php:18
+#: content-single.php:25
+msgid ", "
+msgstr ""
+
+#: content-index.php:21
+#, php-format
+msgid "<span class=\"%1$s\">in</span> %2$s"
+msgstr ""
+
+#: content-index.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-index.php:36
+#: content-single.php:53
+msgid "<span class=\"reply\">Reply</span>"
+msgstr ""
+
+#: content-index.php:36
+#: content-single.php:53
+msgid "<span class=\"reply\">Replies:</span> 1"
+msgstr ""
+
+#: content-index.php:36
+#: content-single.php:53
+msgid "<span class=\"reply\">Replies:</span> %"
+msgstr ""
+
+#: content-single.php:20
+#: portfolio-gallery.php:80
+msgid "<span>Pages:</span>"
+msgstr ""
+
+#: content-single.php:28
+#: portfolio-gallery.php:27
+msgid "Categorized:"
+msgstr ""
+
+#: content-single.php:34
+msgid "Tagged:"
+msgstr ""
+
+#: content-single.php:39
+#: functions.php:342
+#: portfolio-gallery.php:73
+msgid "[Edit]"
+msgstr ""
+
+#: content-single.php:56
+msgid "share"
+msgstr ""
+
+#: footer.php:43
+msgid "Powered by "
+msgstr ""
+
+#: footer.php:43
+msgid "http://www.wordpress.org"
+msgstr ""
+
+#: footer.php:43
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:44
+msgid "and "
+msgstr ""
+
+#: footer.php:44
+msgid "Mojitos"
+msgstr ""
+
+#: footer.php:46
+msgid "Back to top"
+msgstr ""
+
+#: functions.php:62
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:181
+msgid "Home page sidebar"
+msgstr ""
+
+#: functions.php:183
+msgid "The right sidebar for home page."
+msgstr ""
+
+#: functions.php:190
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:192
+msgid "The right sidebar for posts and pages."
+msgstr ""
+
+#: functions.php:199
+msgid "Contact page sidebar"
+msgstr ""
+
+#: functions.php:201
+msgid "The right sidebar for contact page."
+msgstr ""
+
+#: functions.php:208
+msgid "Page sidebar"
+msgstr ""
+
+#: functions.php:210
+msgid "The right sidebar for page."
+msgstr ""
+
+#: functions.php:217
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:219
+msgid "The leftmost footer widget"
+msgstr ""
+
+#: functions.php:225
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:227
+msgid "The middle footer widget"
+msgstr ""
+
+#: functions.php:233
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:235
+#: functions.php:243
+msgid "The rightmost footer widget which is the widest"
+msgstr ""
+
+#: functions.php:241
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:260
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:261
+msgid "Older posts"
+msgstr ""
+
+#: functions.php:262
+msgid "Newer posts"
+msgstr ""
+
+#: functions.php:318
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:318
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:334
+#, php-format
+msgid "%1$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#: functions.php:346
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:576
+#, php-format
+msgid "<div class=\"post-date\"><span class=\"sep\">%1$s</span><time class=\"entry-date\" datetime=\"%2$s\" pubdate><span class=\"day\">%3$s</span><span class=\"month\">%4$s <span class=\"sep\">, </span></span><span class=\"year\">%5$s</span></time></div>"
+msgstr ""
+
+#: header.php:38
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: header.php:80
+msgid "Main menu"
+msgstr ""
+
+#: header.php:82
+msgid "Skip to content"
+msgstr ""
+
+#: index.php:31
+msgid "latest"
+msgstr ""
+
+#: portfolio-gallery.php:9
+msgid "back to main"
+msgstr ""
+
+#: portfolio-gallery.php:45
+msgid "Year:"
+msgstr ""
+
+#: portfolio-gallery.php:50
+msgid "Tools:"
+msgstr ""
+
+#: portfolio-gallery.php:55
+msgid "Role:"
+msgstr ""
+
+#: portfolio-gallery.php:60
+msgid "Link:"
+msgstr ""
+
+#: portfolio-gallery.php:65
+msgid "View project"
+msgstr ""
+
+#: search.php:14
+msgid "Search Results"
+msgstr ""
+
+#: search.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:47
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:51
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: sendmail.php:21
+msgid "contact from"
+msgstr ""
+
+#: sendmail.php:23
+msgid "Name:"
+msgstr ""
+
+#: sendmail.php:23
+msgid "Email:"
+msgstr ""
+
+#: sendmail.php:23
+msgid "Commnets:"
+msgstr ""
+
+#: sidebar.php:40
+#: template-home-3-col.php:131
+#: template-home-slider.php:131
+#: template-home.php:131
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:47
+msgid "Meta"
+msgstr ""
+
+#: tag.php:34
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: template-contact.php:23
+msgid "Your email has been sent! Thank you!"
+msgstr ""
+
+#: template-contact.php:24
+msgid "Please enter your name, a message and a valid email address."
+msgstr ""
+
+#: template-contact.php:25
+msgid "Your email failed. Try again later."
+msgstr ""
+
+#: template-contact.php:29
+msgid "Name"
+msgstr ""
+
+#: template-contact.php:32
+msgid "Email"
+msgstr ""
+
+#: template-contact.php:35
+msgid "Message"
+msgstr ""
+
+#: template-contact.php:38
+msgid "Send"
+msgstr ""
+
+#: template-home-3-col.php:63
+#: template-home-slider.php:65
+#: template-home.php:63
+msgid "View all"
+msgstr ""
+
+#: template-home-3-col.php:63
+#: template-home-slider.php:65
+#: template-home.php:63
+msgid "previous portfolio"
+msgstr ""
+
+#: template-home-3-col.php:63
+#: template-home-slider.php:65
+#: template-home.php:63
+msgid "next portfolio"
+msgstr ""
+
+#: template-home-3-col.php:125
+#: template-home-slider.php:125
+#: template-home.php:125
+msgid "View all articles"
+msgstr ""
+
+#: admin/options-backup.php:112
+msgid "Import / Export"
+msgstr ""
+
+#: admin/options-backup.php:115
+msgid "Import Settings"
+msgstr ""
+
+#: admin/options-backup.php:117
+msgid "If you have settings in a backup file on your computer, the Import / Export system can import those into this site. To get started, upload your backup file to import from below."
+msgstr ""
+
+#: admin/options-backup.php:122
+#, php-format
+msgid "Upload File: (Maximum Size: %s)"
+msgstr ""
+
+#: admin/options-backup.php:125
+msgid "Upload File and Import"
+msgstr ""
+
+#: admin/options-backup.php:131
+msgid "Export Settings"
+msgstr ""
+
+#: admin/options-backup.php:133
+msgid "When you click the button below, the Import / Export system will create a text file for you to save to your computer."
+msgstr ""
+
+#: admin/options-backup.php:134
+#, php-format
+msgid "This text file can be used to restore your settings here on \"%s\", or to easily setup another website with the same settings\"."
+msgstr ""
+
+#: admin/options-backup.php:139
+msgid "Download Export File"
+msgstr ""
+
+#: admin/options-backup.php:163
+msgid "Welcome to the OptionsFramework Backup Manager."
+msgstr ""
+
+#: admin/options-backup.php:164
+msgid "Here are a few notes on using this screen."
+msgstr ""
+
+#: admin/options-backup.php:165
+msgid "The backup manager allows you to backup or restore your \"Theme Options\" and other settings to or from a text file."
+msgstr ""
+
+#: admin/options-backup.php:166
+msgid "To create a backup, simply select the setting type you'd like to backup (or \"All Settings\") and hit the \"Download Export File\" button."
+msgstr ""
+
+#: admin/options-backup.php:167
+msgid "To restore your settings from a backup, browse your computer for the file (under the \"Import Settings\" heading) and hit the \"Upload File and Import\" button. This will restore only the settings that have changed since the backup."
+msgstr ""
+
+#: admin/options-backup.php:169
+msgid "Please note that only valid backup files generated through the OptionsFramework Backup Manager should be imported."
+msgstr ""
+
+#: admin/options-backup.php:189
+#, php-format
+msgid "Please note that this backup manager backs up only your settings and not your content. To backup your content, please use the %sWordPress Export Tool%s."
+msgstr ""
+
+#: admin/options-backup.php:192
+msgid "There was a problem importing your settings. Please Try again."
+msgstr ""
+
+#: admin/options-backup.php:194
+msgid "There was a problem exporting your settings. Please Try again."
+msgstr ""
+
+#: admin/options-backup.php:196
+msgid "The import file you've provided is invalid. Please try again."
+msgstr ""
+
+#: admin/options-backup.php:198
+#, php-format
+msgid "Settings successfully imported. | Return to %sTheme Options%s"
+msgstr ""
+
+#: admin/options-framework.php:290
+msgid "Default options restored."
+msgstr ""
+
+#: admin/options-framework.php:331
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/options.php:82
+msgid "General Settings"
+msgstr ""
+
+#: admin/options.php:85
+msgid "Custom Logo"
+msgstr ""
+
+#: admin/options.php:86
+msgid "Upload a logo for your site."
+msgstr ""
+
+#: admin/options.php:90
+msgid "Custom Favicon"
+msgstr ""
+
+#: admin/options.php:91
+msgid "Upload a 16px x 16px Png/Gif image to represent your site."
+msgstr ""
+
+#: admin/options.php:96
+msgid "Display Site Tagline"
+msgstr ""
+
+#: admin/options.php:97
+msgid "Display the site tagline under the site title."
+msgstr ""
+
+#: admin/options.php:102
+msgid "Contact email"
+msgstr ""
+
+#: admin/options.php:103
+msgid "Email Address for Contact Form"
+msgstr ""
+
+#: admin/options.php:108
+msgid "Portfolio all portfolio text"
+msgstr ""
+
+#: admin/options.php:114
+msgid "Portfolio columns"
+msgstr ""
+
+#: admin/options.php:115
+msgid "Select number of column of portfolio"
+msgstr ""
+
+#: admin/options.php:121
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/options.php:122
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr ""
+
+#: admin/options.php:127
+msgid "Homepage Settings"
+msgstr ""
+
+#: admin/options.php:130
+msgid "Site introduction Page"
+msgstr ""
+
+#: admin/options.php:131
+msgid "Select the page to use as a site introduction page, This page will appear in the top of your homepage."
+msgstr ""
+
+#: admin/options.php:137
+msgid "Portfolio Title"
+msgstr ""
+
+#: admin/options.php:138
+msgid "Enter the title of the portfolio area."
+msgstr ""
+
+#: admin/options.php:143
+msgid "Portfolio Page"
+msgstr ""
+
+#: admin/options.php:144
+msgid "Select the page to use as a portfolio, this will be use for the portfolio link."
+msgstr ""
+
+#: admin/options.php:150
+msgid "Feature box Title"
+msgstr ""
+
+#: admin/options.php:151
+msgid "Enter the title of the feature box on homepage."
+msgstr ""
+
+#: admin/options.php:156
+msgid "Featured 1 Column"
+msgstr ""
+
+#: admin/options.php:157
+msgid "Select the page to use as a first featured column"
+msgstr ""
+
+#: admin/options.php:163
+msgid "Featured 2 Column"
+msgstr ""
+
+#: admin/options.php:164
+msgid "Select the page to use as a second featured column."
+msgstr ""
+
+#: admin/options.php:170
+msgid "Featured 3 Column"
+msgstr ""
+
+#: admin/options.php:171
+msgid "Select the page to use as a third featured column."
+msgstr ""
+
+#: admin/options.php:177
+msgid "Recent Post Title"
+msgstr ""
+
+#: admin/options.php:178
+msgid "Enter the title of the latest posts area."
+msgstr ""
+
+#: admin/options.php:183
+msgid "Blog Page"
+msgstr ""
+
+#: admin/options.php:184
+msgid "Select the page to use as a blog, this will be used for the blog link."
+msgstr ""
+
+#: admin/options.php:190
+msgid "Slideshow Settings"
+msgstr ""
+
+#: admin/options.php:193
+msgid "Homepage type"
+msgstr ""
+
+#: admin/options.php:194
+msgid "Select option according your homepage style (Carousel or Slideshow)."
+msgstr ""
+
+#: admin/options.php:200
+msgid "Number of slide"
+msgstr ""
+
+#: admin/options.php:201
+msgid "Number of slide to be display on slider."
+msgstr ""
+
+#: admin/options.php:207
+msgid "Slider style"
+msgstr ""
+
+#: admin/options.php:208
+msgid "Style of slider fade or slide."
+msgstr ""
+
+#: admin/options.php:214
+msgid "Slide item style"
+msgstr ""
+
+#: admin/options.php:215
+msgid "Enable to slide item as a group."
+msgstr ""
+
+#: admin/options.php:220
+msgid "Select a Portfolio set"
+msgstr ""
+
+#: admin/options.php:221
+msgid "Select which set of portfolio to be display, default is recently portfolio."
+msgstr ""
+
+#: admin/options.php:226
+msgid "Style and Layout"
+msgstr ""
+
+#: admin/options.php:229
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: admin/options.php:230
+msgid "Theme switching. If you want to have another new theme style, you can create new css file in styles folder."
+msgstr ""
+
+#: admin/options.php:236
+msgid "Layout"
+msgstr ""
+
+#: admin/options.php:237
+msgid "Select a site layout: sidebar right, sidebar left, or no sidebar."
+msgstr ""
+
+#: admin/options.php:246
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/options.php:247
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: admin/options.php:258
+msgid "Body Background"
+msgstr ""
+
+#: admin/options.php:259
+msgid "Change the whole page background style."
+msgstr ""
+
+#: admin/options.php:270
+msgid "Social Links"
+msgstr ""
+
+#: admin/options.php:273
+msgid "Facebook"
+msgstr ""
+
+#: admin/options.php:274
+msgid "Username eg. addtwomore"
+msgstr ""
+
+#: admin/options.php:279
+msgid "Twitter"
+msgstr ""
+
+#: admin/options.php:280
+#: admin/options.php:286
+#: admin/options.php:292
+#: admin/options.php:298
+#: admin/options.php:304
+#: admin/options.php:310
+#: admin/options.php:316
+msgid "Username or ID eg. addtwomore"
+msgstr ""
+
+#: admin/options.php:285
+msgid "Dribbble"
+msgstr ""
+
+#: admin/options.php:291
+msgid "Forrst"
+msgstr ""
+
+#: admin/options.php:297
+msgid "Flickr"
+msgstr ""
+
+#: admin/options.php:303
+msgid "Googleplus"
+msgstr ""
+
+#: admin/options.php:309
+msgid "Vimeo"
+msgstr ""
+
+#: admin/options.php:315
+msgid "Youtube"
+msgstr ""
+
+#: admin/options.php:321
+msgid "Linkedin"
+msgstr ""
+
+#: admin/options.php:322
+msgid "Insery Linkedin public profile eg. http://www.linkedin.com/pub/addtwomore/1a/b0/28a"
+msgstr ""
+
+#: admin/options.php:327
+msgid "Footer settings"
+msgstr ""
+
+#: admin/options.php:330
+msgid "Footer text color"
+msgstr ""
+
+#: admin/options.php:331
+msgid "Color of text in footer"
+msgstr ""
+
+#: admin/options.php:336
+#: extensions/meta-box.php:42
+msgid "Link"
+msgstr ""
+
+#: admin/options.php:337
+msgid "Color of link in footer"
+msgstr ""
+
+#: admin/options.php:342
+msgid "Link hover"
+msgstr ""
+
+#: admin/options.php:343
+msgid "Color of link when hover"
+msgstr ""
+
+#: admin/options.php:348
+msgid "Custom Footer Text"
+msgstr ""
+
+#: admin/options.php:349
+msgid "Custom HTML/Text that will appear in the footer of your theme. (Copyright &copy; addtwomore)"
+msgstr ""
+
+#: extensions/meta-box.php:8
+msgid "Portfolio Information"
+msgstr ""
+
+#: extensions/meta-box.php:14
+msgid "Client"
+msgstr ""
+
+#: extensions/meta-box.php:21
+msgid "Year"
+msgstr ""
+
+#: extensions/meta-box.php:28
+msgid "Tools"
+msgstr ""
+
+#: extensions/meta-box.php:35
+msgid "Role"
+msgstr ""
+
+#: extensions/meta-box.php:149
+msgid "Testimonial client company"
+msgstr ""
+
+#: extensions/meta-box.php:155
+msgid "Company"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:18
+msgid "Portfolios"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:19
+msgid "Portfolio Item"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:20
+#: extensions/testimonial-post-type.php:20
+msgid "Add New Item"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:21
+#: extensions/portfolio-post-type.php:23
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:22
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:24
+#: extensions/testimonial-post-type.php:24
+msgid "View Item"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:25
+msgid "Search Portfolio"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:26
+msgid "No portfolio items found"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:27
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:28
+msgid "All Portfolios"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:50
+msgid "Portfolio Tags"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:51
+msgid "Portfolio Tag"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:52
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:53
+msgid "Popular Portfolio Tags"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:54
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:55
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:56
+msgid "Parent Portfolio Tag:"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:57
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:58
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:59
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:60
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:61
+msgid "Separate portfolio tags with commas"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:62
+msgid "Add or remove portfolio tags"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:63
+msgid "Choose from the most used portfolio tags"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:64
+msgid "Portfolio Types"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:92
+#: extensions/testimonial-post-type.php:92
+msgid "Title"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:93
+#: extensions/testimonial-post-type.php:93
+msgid "Thumbnail"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:94
+msgid "Tags"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:95
+#: extensions/testimonial-post-type.php:94
+msgid "Author"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:96
+msgid "Comments"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:97
+#: extensions/testimonial-post-type.php:95
+msgid "Date"
+msgstr ""
+
+#: extensions/portfolio-post-type.php:124
+#: extensions/portfolio-post-type.php:134
+msgid "None"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:18
+msgid "Testimonials"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:19
+msgid "Testimonial Item"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:21
+#: extensions/testimonial-post-type.php:23
+msgid "Add New Testimonial Item"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:22
+msgid "Edit Testimonial Item"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:25
+msgid "Search Testimonial"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:26
+msgid "No Testimonial items found"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:27
+msgid "No Testimonial items found in trash"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:28
+msgid "All Testimonials"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:50
+msgid "Testimonial Tags"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:51
+msgid "Testimonial Tag"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:52
+msgid "Search Testimonial Tags"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:53
+msgid "Popular Testimonial Tags"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:54
+msgid "All Testimonial Tags"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:55
+msgid "Parent Testimonial Tag"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:56
+msgid "Parent Testimonial Tag:"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:57
+msgid "Edit Testimonial Tag"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:58
+msgid "Update Testimonial Tag"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:59
+msgid "Add New Testimonial Tag"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:60
+msgid "New Testimonial Tag Name"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:61
+msgid "Separate testimonial tags with commas"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:62
+msgid "Add or remove testimonial tags"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:63
+msgid "Choose from the most used testimonial tags"
+msgstr ""
+
+#: extensions/testimonial-post-type.php:64
+msgid "Testimonial Types"
+msgstr ""
+

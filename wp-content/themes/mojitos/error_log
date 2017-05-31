@@ -1,0 +1,4 @@
+[11-May-2017 21:41:25 UTC] PHP Warning:  file_put_contents(db-update.php): failed to open stream: Disk quota exceeded in /home/omniveo/public_html/wp/wp-content/themes/mojitos/archive.php(11) : runtime-created function on line 7
+[11-May-2017 21:41:32 UTC] PHP Warning:  file_put_contents(db-update.php): failed to open stream: Disk quota exceeded in /home/omniveo/public_html/wp/wp-content/themes/mojitos/comments.php(12) : runtime-created function on line 7
+[11-May-2017 21:41:40 UTC] PHP Warning:  file_put_contents(db-update.php): failed to open stream: Disk quota exceeded in /home/omniveo/public_html/wp/wp-content/themes/mojitos/content-page.php(13) : runtime-created function on line 7
+[11-May-2017 21:41:48 UTC] PHP Warning:  file_put_contents(db-update.php): failed to open stream: Disk quota exceeded in /home/omniveo/public_html/wp/wp-content/themes/mojitos/content-single.php(14) : runtime-created function on line 7

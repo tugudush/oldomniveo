@@ -1,0 +1,19 @@
+===== 1.0 =====
+
+* Initial release
+
+===== 1.1 =====
+
+* fixed theme option back-up , allow wordpress to use json mime-type.
+* author comment css
+
+===== 1.2 =====
+
+* Added Tab, Toggle, Googlemap, youtube, vimeo shortcode.
+* Added Googleplus, Youtube, Viemo social link.
+
+===== 1.3 =====
+
+* Supported Localization.
+* Added linkedin.
+* Fixed facebook share button
